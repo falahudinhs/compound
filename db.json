@@ -1,0 +1,46 @@
+﻿{
+  "success": true,
+  "message": "show all herbsmeds are success",
+  "data": [
+    {
+      "id": "1",
+      "compound_name": "Anisucumarin A"
+    },
+    {
+      "id": "2",
+      "compound_name": "Atroviridin"
+    },
+    {
+      "id": "3",
+      "compound_name": "Boldine"
+    },
+    {
+      "id": "4",
+      "compound_name": "Camphene"
+    },
+    {
+      "id": "5",
+      "compound_name": "Caryophyllene"
+    },
+    {
+      "id": "6",
+      "compound_name": "Caryophyllene oxide"
+    },
+    {
+      "id": "7",
+      "compound_name": "Cedrene"
+    },
+    {
+      "id": "8",
+      "compound_name": "Chamigrene"
+    },
+    {
+      "id": "9",
+      "compound_name": "Crypton"
+    },
+    {
+      "id": "10",
+      "compound_name": "Cubenol"
+    }
+  ]
+}
